@@ -19,11 +19,15 @@ Feedback is a pole star. Let us find the right way!
 3) В раздел курса вставить текст с отзывом
 4) Отправить pull request на слияние
 
+Или тоже самое можно сделать в веб версии, как [показано на gif](https://i.imgur.com/1PRKgKE.gifv)
+
+![review](https://i.imgur.com/1PRKgKE.gif)
+
 ### Шаблон отзыва
 
 ```
 ---
-[Имя Фамилия](https://github.com/sevastyanovio) – короткий тайтл / описание
+[Имя Фамилия](https://github.com/sevastyanovio) – короткий тайтл о себе/ описание (например Junior Javascript Developer)
 
 > Текст отзыва. 
 >
