@@ -19,9 +19,7 @@ Feedback is a pole star. Let us find the right way!
 3) В раздел курса вставить текст с отзывом
 4) Отправить pull request на слияние
 
-Или тоже самое можно сделать в веб версии, как [показано на gif](https://i.imgur.com/1PRKgKE.gifv)
-
-![review](https://i.imgur.com/1PRKgKE.gif)
+Или тоже самое можно сделать в веб версии, как [показано на gif](https://i.imgur.com/1PRKgKE.gif)
 
 ### Шаблон отзыва
 
