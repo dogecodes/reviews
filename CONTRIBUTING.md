@@ -17,7 +17,7 @@ Feedback is a pole star. Let us find the right way!
 
 ```
 ---
-[Имя Фамилия](https://github.com/sevastyanovio) – короткий тайтл / описание
+[Имя Фамилия](https://github.com/sevastyanovio) – короткий тайтл о себе / описание (например Junior Javascript Developer)
 
 > Текст отзыва. 
 >
