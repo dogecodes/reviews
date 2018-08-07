@@ -2,6 +2,10 @@
 Github репозиторий с отзывами cтудентов онлайн интенсивов [doge.codes](https://doge.codes/).
 
 ### Интенсивный онлайн-курс по front-end, ментор – :boy:[Denys Dovhan](https://github.com/denysdovhan)
+---
+[Имя Фамилия](https://github.com/sevastyanovio) – Junior dev
+
+> Сколько это все добро стоит лучше бы написали и чем отличается от утуб каналов?
 
 ---
 [Дмитрий Целинко](https://github.com/dmitryt) – Front-end developer
