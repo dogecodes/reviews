@@ -1,6 +1,9 @@
 # Отзывы студентов doge.codes :dog: :mega:
 Github репозиторий с отзывами cтудентов онлайн интенсивов [doge.codes](https://doge.codes/).
 
+### Интенсивный онлайн-курс по основам PHP, ментор – :boy:[Roman Sevastyanov](https://github.com/sevastyanovio)
+
+
 ### Интенсивный онлайн-курс по front-end, ментор – :boy:[Denys Dovhan](https://github.com/denysdovhan)
 
 ---
